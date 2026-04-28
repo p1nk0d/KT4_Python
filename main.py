@@ -99,3 +99,5 @@ user2.login = 'geo'
 
 print(user1.grade)
 admin.grade = 10
+
+input('Нажмите Enter, чтобы выйти....')
